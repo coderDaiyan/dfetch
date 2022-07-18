@@ -1,5 +1,6 @@
 {
-  "name": "cli-app",
+  "name": "@daiyanjs/dfetch",
+  "homepage": "https://github.com/coderDaiyan/dfetch",
   "version": "1.0.0",
   "description": "",
   "type": "module",
@@ -8,7 +9,7 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "",
+  "author": "Abdallah Daiyan",
   "license": "ISC",
   "bin": {
     "dfetch": "./bin/index.js"
