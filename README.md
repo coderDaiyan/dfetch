@@ -1,5 +1,7 @@
 # Dfetch - A simple fetch tool using [Node](https://nodejs.org/en/)
 
+![Dfetch screenshot](https://media.discordapp.net/attachments/873221667072135218/998652001699237999/dfetch.png "Dfetch screenshot")
+
 ### Usage
 
 Install this via npm:
